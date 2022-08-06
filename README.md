@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coldixi
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning to code/make keyloggers
+- 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on creating apps
 - 📫 How to reach me IG:coldixi
 
